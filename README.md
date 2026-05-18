@@ -16,3 +16,14 @@ pip install -r requirements.txt
 - src/ - Reusable Python modules
 - tests/ - Unit tests
 - scripts/ - Helper scripts
+
+## Database
+- Schema: `data/schema.sql` (PostgreSQL compatible)
+- Script: `src/database_postgres.py`
+- Run: `python src/database_postgres.py`
+
+## Visualizations
+All charts in `reports/` folder:
+- sentiment_by_bank.png
+- rating_distribution.png
+- theme_frequency.png

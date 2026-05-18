@@ -1,0 +1,36 @@
+
+Commercial Bank of Ethiopia:
+  good: 30.042
+  app: 27.944
+  nice: 13.951
+  best: 12.047
+  cbe: 10.499
+  like: 7.843
+  working: 7.799
+  bank: 7.509
+  use: 7.487
+  application: 7.329
+
+Dashen Bank:
+  app: 36.824
+  good: 16.886
+  bank: 16.655
+  best: 13.037
+  dashen: 12.890
+  easy: 10.272
+  use: 9.407
+  super: 9.366
+  fast: 9.264
+  nice: 7.750
+
+Bank of Abyssinia:
+  app: 5.463
+  de: 4.478
+  good: 3.953
+  et: 3.411
+  très: 3.332
+  application: 3.318
+  bank: 3.251
+  est: 3.066
+  je: 2.693
+  useful: 2.480
